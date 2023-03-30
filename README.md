@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  <img src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" alt="alt text" title="Title">
+  <img src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" alt="alt text" title="Title" width="400" height="300">
 </div>
 <h1 align="left">Hi 👋, I'm Earth</h1>
 <h3 align="left">Hi there! My name is Rungchat Amuay I am Nutritionist and Dietetian who interested in Data Analyst. I am a junior data analyst.</h3>
