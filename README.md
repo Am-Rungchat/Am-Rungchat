@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div p align = "center">
   <img src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" alt="alt text" title="Title" width="400" height="300">
 </div>
 <h1 align="left">Hi 👋, I'm Earth</h1>
