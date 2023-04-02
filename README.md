@@ -1,11 +1,14 @@
 <div p align = "center">
   <img src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" alt="alt text" title="Title" width="400" height="300">
 </div>
-<h1Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rungchat Amnuay (Earth)
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rungchat Amnuay (Earth)
 ===============================================================================================================================================
 
-็I am Nutritionist and Dietetian who interested in Data Analysis.
+I am Nutritionist and Dietetian who interested in Data Analysis.
 -----------------------------------------------------------------
+
+I've learned about Data Analysis tools: Excel, Spreadsheets, Pivot tables, Power BI, Database, SQL, R-programming, Python, and Classical machine learning. Also Data visualization tools: Tableau and Locker. I'm still learning and improving my skills.
 
 I've learned about Data Analysis tools: Excel, Spreadsheets, Pivot tables, Power BI, Database, SQL, R-programming, Python, and Classical machine learning. Also Data visualization tools: Tableau and Locker. I'm still learning and improving my skills.
 
