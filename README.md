@@ -10,7 +10,6 @@ I am Nutritionist and Dietetian who interested in Data Analysis.
 
 I've learned about Data Analysis tools: Excel, Spreadsheets, Pivot tables, Power BI, Database, SQL, R-programming, Python, and Classical machine learning. Also Data visualization tools: Tableau and Locker. I'm still learning and improving my skills.
 
-I've learned about Data Analysis tools: Excel, Spreadsheets, Pivot tables, Power BI, Database, SQL, R-programming, Python, and Classical machine learning. Also Data visualization tools: Tableau and Locker. I'm still learning and improving my skills.
 
 *   🌍  I'm based in Pathunthani, Thailand
 *   🖥️  See my portfolio at [My Github](http://github.com/Am-Rungchat)
