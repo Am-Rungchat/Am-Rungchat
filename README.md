@@ -15,7 +15,7 @@ I've learned about Data Analysis tools: Excel, Spreadsheets, Pivot tables, Power
 *   🖥️  See my portfolio at [My Github](http://github.com/Am-Rungchat)
 *   ✉️  You can contact me at [rungchat.am@gmail.com](mailto:rungchat.am@gmail.com)
 *   🚀  I'm currently working on [I'm a research assistant and coordinator.](http://sonkthaiglairok.com)
-*   🧠  I'm learning Focusing on R and Python for Data Analysis.### Skills 
+*   🧠  I'm learning Focusing on R and Python for Data Analysis.
 
 ### Skills
 
