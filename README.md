@@ -35,3 +35,9 @@ I've learned about Data Analysis tools: Excel, Spreadsheets, Pivot tables, Power
 <a href="http://www.github.com/Am-Rungchat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Am-Rungchat&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Am-Rungchat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am-Rungchat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Projects
+#### 1. How Does a Bike-Share Navigate Speedy Success.
+_Tools: R-programming_
+
+This project from Google Data Analytics course in Coursera. I'm a junuior data analyst in the marketing team at Cyclistic. a bike-share company in Chicago. They have a marketing strategy to comvert a casual user to a memmber user. I was assigned to analyze the differentiation between 2 types user. [Veiw the Report](https://am-rungchat.github.io/Am-Rungchat.io/Divvy_case_study.html?fbclid=IwAR3ud-4tf680n9ydQ8NMTCFr5-qO-KRSpqGKDnEeRhCVS_VDfyTgLsQ4rW8) 
