@@ -45,4 +45,9 @@ This project from Google Data Analytics course in Coursera. I'm a junuior data a
 #### 2. Web Scraping Project.
 _Tools: R-programing, Jupiter notebook_
 
-This project from DataRockie Bootcamp 6 by Adtoy. Scraping phone price from website and export to the CSV file for further analysis [View the Project](https://github.com/Am-Rungchat/bootcamp_projects/blob/main/Batch%2006%20-%20Intro%20to%20Web%20Scraping.ipynb)  
+This project from Data Rockie Bootcamp 6 by Adtoy. Scraping phone price from website and export to the CSV file for further analysis [View the Project](https://github.com/Am-Rungchat/bootcamp_projects/blob/main/Batch%2006%20-%20Intro%20to%20Web%20Scraping.ipynb)  
+
+#### 3. Data Analysis with SQL.
+_Tools: SQL_
+
+This project from Assignment in Data Rockie Bootcamp 6 by Adtoy. **Senario**: I am a restaurant owner and require to analyze the staffs perfomance. I create tables and connect each tables with ER-Diagram. Design the Primarykey and Foreignkey. Finally, I analyze my data with SQL. [View the Project](https://github.com/Am-Rungchat/bootcamp_projects/blob/main/Batch06-Intro-to-SQL-homework.)
