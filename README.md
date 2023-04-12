@@ -40,4 +40,9 @@ I've learned about Data Analysis tools: Excel, Spreadsheets, Pivot tables, Power
 #### 1. How Does a Bike-Share Navigate Speedy Success.
 _Tools: R-programming_
 
-This project from Google Data Analytics course in Coursera. I'm a junuior data analyst in the marketing team at Cyclistic. a bike-share company in Chicago. They have a marketing strategy to comvert a casual user to a memmber user. I was assigned to analyze the differentiation between 2 types user. [Veiw the Report](https://am-rungchat.github.io/Am-Rungchat.io/Divvy_case_study.html?fbclid=IwAR3ud-4tf680n9ydQ8NMTCFr5-qO-KRSpqGKDnEeRhCVS_VDfyTgLsQ4rW8) 
+This project from Google Data Analytics course in Coursera. I'm a junuior data analyst in the marketing team at Cyclistic. a bike-share company in Chicago. They have a marketing strategy to comvert a casual user to a memmber user. I was assigned to analyze the differentiation between 2 types user. [View the Report](https://am-rungchat.github.io/Am-Rungchat.io/Divvy_case_study.html?fbclid=IwAR3ud-4tf680n9ydQ8NMTCFr5-qO-KRSpqGKDnEeRhCVS_VDfyTgLsQ4rW8) 
+
+#### 2. Web Scraping Project.
+_Tools: R-programing, Jupiter notebook_
+
+This project from DataRockie Bootcamp 6 by Adtoy. Scraping phone price from website and export to the CSV file for further analysis [View the Project](https://github.com/Am-Rungchat/bootcamp_projects/blob/main/Batch%2006%20-%20Intro%20to%20Web%20Scraping.ipynb)  
