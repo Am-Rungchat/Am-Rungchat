@@ -37,6 +37,7 @@ I've learned about Data Analysis tools: Excel, Spreadsheets, Pivot tables, Power
 <a href="https://github.com/Am-Rungchat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am-Rungchat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Projects
+
 #### 1. How Does a Bike-Share Navigate Speedy Success.
 _Tools: R-programming_
 
@@ -51,3 +52,13 @@ This project from Data Rockie Bootcamp 6 by Adtoy. Scraping phone price from web
 _Tools: SQL_
 
 This project from Assignment in Data Rockie Bootcamp 6 by Adtoy. **Senario**: I am a restaurant owner and require to analyze the staffs perfomance. I create tables and connect each tables with ER-Diagram. Design the Primarykey and Foreignkey. Finally, I analyze my data with SQL. [View the Project](https://github.com/Am-Rungchat/bootcamp_projects/blob/main/Batch06-Intro-to-SQL-homework.)
+
+#### 4. Data Analysis with Spreadsheets
+_Tools: Google spreadsheets_
+
+This is a workbook and homework from Google Spreadsheets classes from Databootcamp by AdToy. We're learning to work with data by Spreadsheets. [View the Spreadsheets](https://docs.google.com/spreadsheets/d/1wUVO2TsDLTHB3wLNiXXQBzD1okn3ksRhRZkBOxo0RdY/edit?usp=share_link)
+
+#### 5. Pizza chatbot with R Programming.
+_Tools: R-programing_
+
+This project is a homework from Intro to R programing classes from Databootcamp by Adtoy. Scenario is that I am the Pizza restaurant owner and want to build an Ordering chatbot for customers. [View the Project](https://replit.com/@RungchatAmnuay/Batch06ChatbotPizza?v=1)
